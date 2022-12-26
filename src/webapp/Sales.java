@@ -11,4 +11,7 @@ public class Sales {
 
     //....
     // free
+
+    // holidays ended
+    // same price again
 }
