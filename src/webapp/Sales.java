@@ -12,6 +12,8 @@ public class Sales {
     //....
     // free
 
+   // added multi buys
+
     // holidays ended
     // same price again
 }
